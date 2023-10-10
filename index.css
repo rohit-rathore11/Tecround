@@ -1,0 +1,56 @@
+*{
+    margin: 0;;
+    padding: 0;;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+.navbar-nav{
+    margin-left: 5rem;
+    
+}
+.nav-item {
+    margin-left: 1rems;
+}
+#videoup{
+    height:600px;
+    width:500px;
+    
+}
+.card-text{
+    font-family: sans-serif;
+    font-weight:bold;
+    color: black;
+    /* line-height: 2px; */
+    
+}
+.top-section{
+    background-color:rgba(180, 253, 192, 0.895)
+}
+.hero-section{
+    background-color: white;
+}
+.main-heading{
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+    color : rgba(7, 7, 27, 0.853);
+
+}
+.main-para{
+    line-height: 22px;
+}
+.Jeckpot-section{
+    background-color: rgba(223, 254, 255, 0.873);
+    margin-top: 100px;
+}
+big{
+    color: orange;
+    font-size:xx-large;
+    font-weight:bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.hero-heading{
+    color: orange;
+    font-size:large;
+    font-weight:bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
